@@ -6,6 +6,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/0268-missing-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/silentshadow417/LeetCode_Problem/tree/master/2652-sum-multiples) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/silentshadow417/LeetCode_Problem/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
